@@ -1,1 +1,3 @@
-My GitHub Assessment Project
+My GitHub Assessment Project.
+
+This project is connected to GitHub.
